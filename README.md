@@ -28,9 +28,7 @@
 | **W<sub>i</sub>** |7|9|10|5|8|4|2|1|6|3|7|9|10|5|8|4|2|1|
 
 - **3.**  计算![](https://wikimedia.org/api/rest_v1/media/math/render/svg/dad8e73b5a78c0c3d0ca9097d64adad4daacbf31)
-- **4.**  ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/81eb5f69ce9a438d004f0fb85b6b14dfa4c3b27a)
-
-使用[Python](https://zh.wikipedia.org/wiki/Python)获取身份证校验码：
+- **4.**  ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/81eb5f69ce9a438d004f0fb85b6b14dfa4c3b27a)使用[Python](https://zh.wikipedia.org/wiki/Python)获取身份证校验码：
 ```Python
 def get_check_digit(id_number):
     """ 通过身份证号获取校验码 """
